@@ -13,7 +13,7 @@
 &nbsp;&nbsp;
 [![website](./img/in.png)](https://www.linkedin.com/in/jad-hammoud-a8859b231/)
 &nbsp;&nbsp;
-[![website](./img/inst.png)](https://www.instagram.com/)
+[![website](./img/inst.png)](https://www.instagram.com/jadhammoud7)
 
 ### Languages and Tools:
 
