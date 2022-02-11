@@ -8,12 +8,6 @@
 - 🥅 Future Goal: Become a successful programmer in my domain!
 - ⚡ Fun fact: my hobbies are football , swimming and playing video games.
 
-### Connect with me:
-
-&nbsp;&nbsp;
-[![website](./img/in.png)](https://www.linkedin.com/in/jad-hammoud-a8859b231/)
-&nbsp;&nbsp;
-[![website](./img/inst.png)](https://www.instagram.com/jadhammoud7)
 
 ### Languages and Tools:
 
