@@ -11,9 +11,9 @@
 ### Connect with me:
 
 &nbsp;&nbsp;
-[![website](./img/linkedin.jpg)](https://www.linkedin.com/in/jad-hammoud-a8859b231/)
+[![website](./img/in.png)](https://www.linkedin.com/in/jad-hammoud-a8859b231/)
 &nbsp;&nbsp;
-[![website](./img/instagram.png)](https://www.instagram.com/)
+[![website](./img/inst.png)](https://www.instagram.com/)
 
 ### Languages and Tools:
 
